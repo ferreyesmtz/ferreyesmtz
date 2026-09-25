@@ -10,15 +10,19 @@ I'm a **Computer Science and Engineering student** at **Tec de Monterrey**, and 
 
 ## 📊 GitHub Stats
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferreyesmtz&show_icons=true&theme=tokyonight&hide_border=true) -->
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ferreyesmtz&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreyesmtz&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ferreyesmtz&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ferreyesmtz&theme=tokyonight&hide_border=true" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ferreyesmtz&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ferreyesmtz&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
-<!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=ferreyesmtz&theme=tokyonight&no-frame=true&row=1&column=6)
---- -->
----
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-reyes-marezz/)
